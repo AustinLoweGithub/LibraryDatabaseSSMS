@@ -1,0 +1,2 @@
+# LibraryDatabaseSSMS
+Database Creation File
